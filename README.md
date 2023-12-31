@@ -1,4 +1,2 @@
-# statistikk
-#### Oppgave 1 sin kode er i oppg1.ipynb
-#### Oppgave 2 sin kode er i oppg2.ipynb
-#### Oppgave 3 sin kode er i oppg3.ipynb
+This repository contains code used for the exercises in the subject ISTT1003 - Statistikk, Autumn 2023.
+Link to subject: https://www.ntnu.no/studier/emner/ISTT1003#tab=omEmnet
